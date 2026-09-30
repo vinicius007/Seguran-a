@@ -1,2 +1,2 @@
-# Seguran-a
+# Segurança
 Sistema de Controle de Segurança
